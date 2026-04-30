@@ -3,7 +3,11 @@
 
 I am an electrical engineering major at CSUF and I plan on graduating in 2029.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My Github page is http://github.com/LuisUrdaneta2007
+
+### Favorite CPSC 120L Labs
 
 * Lab 1
 
