@@ -15,8 +15,8 @@ My Github page is http://github.com/LuisUrdaneta2007
 
 * Lab 4, Part 1
 
-    This lab is another one of my favorite labs because I learned how to convert a unit to another unit which is interesting for me because I like math so they both are related.
+    This lab was another one of my favorite labs because I learned how to convert a unit to another unit which is interesting for me because I like math so they both are related.
 
 * Lab 6, Part 1
 
-    This lab is my favorite too because here is where I learned how many arguments I want for my program to run. I like how simple it was to learn it and the topic which was about sandwiches.
+    This lab was my favorite too because I learned how many arguments I want for my program to run. I like how simple it was to learn it and the topic which was about sandwiches.
